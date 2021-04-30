@@ -23,5 +23,4 @@ public class RequestStage {
 	private Request request;
 	private User user;
 		
-	
 }
